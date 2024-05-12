@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Welcome to Agua](README.md)
+
+## Quick Start
+
+* [Sentry: Tutorial](quick-start/sentry-tutorial.md)
