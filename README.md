@@ -14,7 +14,7 @@ Agua is a **React Visual Environment**. With Agua, you can understand codebases 
 
 {% tabs %}
 {% tab title="Welcome to Agua" %}
-
+<figure><img src=".gitbook/assets/Agua-Menu-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -86,7 +86,7 @@ Generate documentation with AI: **Document with one-click**
 
 {% tabs %}
 {% tab title="Documentation" %}
-
+<figure><img src=".gitbook/assets/Component-List-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

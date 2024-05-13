@@ -23,7 +23,7 @@ In this tutorial, we'll walk through [Sentry's](https://sentry.io/) codebase's c
 
 {% tabs %}
 {% tab title="Sentry" %}
-
+<figure><img src="../.gitbook/assets/Sentry-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -53,7 +53,19 @@ https://github.com/getsentry/sentry.git
 
 #### 2.1 Sign Up
 
-Open our web editor in [auth.agua.app](https://auth.agua.app/signin/).
+> Open Agua's [web editor](https://auth.agua.app/signin/):
+
+```
+https://auth.agua.app/signin/
+```
+
+> Register with your [Google Account](https://www.google.com/account/about/).&#x20;
+
+{% tabs %}
+{% tab title="Sign Up" %}
+<figure><img src="../.gitbook/assets/Agua-Sign-Up-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 {% hint style="warning" %}
 Agua is currently only supported in [**Google Chrome**](https://www.google.com/intl/es-419/chrome/).
@@ -61,27 +73,27 @@ Agua is currently only supported in [**Google Chrome**](https://www.google.com/i
 
 
 
-#### 2.1. Terminal installation[​](https://docs.agua.dev/installation#21-terminal-installation) <a href="#id-21-terminal-installation" id="id-21-terminal-installation"></a>
+#### 2.2. Terminal installation[​](https://docs.agua.dev/installation#21-terminal-installation) <a href="#id-21-terminal-installation" id="id-21-terminal-installation"></a>
 
-In the root folder of the Sentry repository, run the following command:
+> Go to the root folder of the Sentry repository and run:
 
 ```
 npx --yes agua-server
 ```
 
-{% hint style="warning" %}
-Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/download).
-{% endhint %}
-
 {% tabs %}
-{% tab title="Components tree" %}
+{% tab title="Terminal installation" %}
 <figure><img src="../.gitbook/assets/Agua-Install-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
+{% hint style="warning" %}
+Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/download).
+{% endhint %}
 
 
-### 2.2 Welcome menu[​](https://docs.agua.dev/installation#22-welcome-menu) <a href="#id-22-welcome-menu" id="id-22-welcome-menu"></a>
+
+#### 2.3 Welcome menu[​](https://docs.agua.dev/installation#22-welcome-menu) <a href="#id-22-welcome-menu" id="id-22-welcome-menu"></a>
 
 
 
@@ -91,7 +103,12 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 {% endtab %}
 {% endtabs %}
 
-
+> You can also access:
+>
+> * Our Documentation \[[_Read the docs_](https://docs.agua.dev/)]
+> * Out Tutorials \[[_Watch our courses_](https://www.youtube.com/@aguafordevs)]
+> * Our WhatsApp contact \[[_Contact us for support_](https://wa.me/12396883277)]
+> * Our one-to-one onboarding \[[_Book a call with our founders_](https://agua.tools/meetings/developers/onboarding)]
 
 
 
