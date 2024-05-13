@@ -40,7 +40,7 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 {% tabs %}
 {% tab title="Components tree" %}
-
+<figure><img src=".gitbook/assets/Component-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -52,7 +52,7 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 {% tabs %}
 {% tab title="Dependencies Tree" %}
-
+<figure><img src=".gitbook/assets/Dependency-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -64,7 +64,7 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 {% tabs %}
 {% tab title="Component Preview" %}
-
+<figure><img src=".gitbook/assets/Component-Preview-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -76,7 +76,7 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 {% tabs %}
 {% tab title="Welcome to Agua" %}
-
+<figure><img src=".gitbook/assets/Integrated-IDE-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

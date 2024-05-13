@@ -15,7 +15,7 @@ layout:
 
 # Sentry: Tutorial
 
-In this 5-minute tutorial, you will utilize the codebase of this documentation to visualize its components and dependency structure.
+In this 5-minute tutorial, you will utilize Sentry's repository to visualize and undertand its codebase components and dependency structure.
 
 ***
 
@@ -26,14 +26,18 @@ In this 5-minute tutorial, you will utilize the codebase of this documentation t
 Fork and clone the GitHub repository locally.
 
 ```
-https://github.com/getsentry/sentry.gitentry
+https://github.com/getsentry/sentry.git
 ```
 
 
 
 ## 2. Agua setup[​](https://docs.agua.dev/installation#2-agua-setup) <a href="#id-2-agua-setup" id="id-2-agua-setup"></a>
 
-Open our web editor in [www.app.agua.dev](http://www.app.agua.dev/).
+###
+
+### 2.1 Sign Up
+
+Open our web editor in [auth.agua.app](https://auth.agua.app/signin/).
 
 {% hint style="warning" %}
 Agua is currently only supported in [**Google Chrome**](https://www.google.com/intl/es-419/chrome/).
@@ -43,7 +47,7 @@ Agua is currently only supported in [**Google Chrome**](https://www.google.com/i
 
 ### 2.1. Terminal installation[​](https://docs.agua.dev/installation#21-terminal-installation) <a href="#id-21-terminal-installation" id="id-21-terminal-installation"></a>
 
-In the root folder of the repository, run the following command:
+In the root folder of the Sentry repository, run the following command:
 
 ```
 npx --yes agua-server
@@ -53,13 +57,37 @@ npx --yes agua-server
 Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/download).
 {% endhint %}
 
+{% tabs %}
+{% tab title="Components tree" %}
+<figure><img src="../.gitbook/assets/Agua-Install-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
 
 
 ### 2.2 Welcome menu[​](https://docs.agua.dev/installation#22-welcome-menu) <a href="#id-22-welcome-menu" id="id-22-welcome-menu"></a>
 
 
 
+{% tabs %}
+{% tab title="Components tree" %}
+<figure><img src="../.gitbook/assets/Agua-Menu-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
 ### 2.3 Folder Selection[​](https://docs.agua.dev/installation#23-folder-selection) <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
+
+
+
+{% tabs %}
+{% tab title="Components tree" %}
+<figure><img src="../.gitbook/assets/Component-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 
 
