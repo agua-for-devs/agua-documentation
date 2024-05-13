@@ -8,8 +8,8 @@
 
 ## Basics
 
-* [Components Graph](basics/components-graph.md)
+* [Components Tree](basics/components-tree.md)
 * [Component Preview](basics/component-preview.md)
-* [Dependencies Graph](basics/dependencies-graph.md)
+* [Dependencies Tree](basics/dependencies-tree.md)
 * [Documentation](basics/documentation.md)
 * [Integrated IDE](basics/integrated-ide.md)

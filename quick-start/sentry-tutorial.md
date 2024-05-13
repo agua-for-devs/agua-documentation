@@ -93,38 +93,60 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-#### 2.3 Welcome menu[​](https://docs.agua.dev/installation#22-welcome-menu) <a href="#id-22-welcome-menu" id="id-22-welcome-menu"></a>
+#### 2.3. Welcome menu[​](https://docs.agua.dev/installation#22-welcome-menu) <a href="#id-22-welcome-menu" id="id-22-welcome-menu"></a>
 
-
+> Select the \[**Open folder]** button and connect your local GitHub repository with Agua.
 
 {% tabs %}
-{% tab title="Components tree" %}
+{% tab title="Welcome menu​" %}
 <figure><img src="../.gitbook/assets/Agua-Menu-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 > You can also access:
 >
-> * Our Documentation \[[_Read the docs_](https://docs.agua.dev/)]
-> * Out Tutorials \[[_Watch our courses_](https://www.youtube.com/@aguafordevs)]
-> * Our WhatsApp contact \[[_Contact us for support_](https://wa.me/12396883277)]
-> * Our one-to-one onboarding \[[_Book a call with our founders_](https://agua.tools/meetings/developers/onboarding)]
+> * Our Documentation \[[_Read the docs_](https://docs.agua.dev/)].
+> * Out Tutorials \[[_Watch our courses_](https://www.youtube.com/@aguafordevs)].
+> * Our WhatsApp contact \[[_Contact us for support_](https://wa.me/12396883277)].
+> * Our one-to-one onboarding \[[_Book a call with our founders_](https://agua.tools/meetings/developers/onboarding)].
 
 
 
-### 2.3 Folder Selection[​](https://docs.agua.dev/installation#23-folder-selection) <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
+#### 2.4. Locate your Folder <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
 
-
+> Navigate through your file manager and select your repository's folder.
 
 {% tabs %}
-{% tab title="Components tree" %}
-<figure><img src="../.gitbook/assets/Component-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% tab title="Locate your Folder" %}
+<figure><img src="../.gitbook/assets/Agua-Finder-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
-### 2.4 Agua Settings[​](https://docs.agua.dev/installation#24-agua-settings) <a href="#id-24-agua-settings" id="id-24-agua-settings"></a>
+#### 2.5. Grant Files permissions <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
+
+> Allow our web app to securely access and edit files in the selected folder.
+
+{% tabs %}
+{% tab title="Locate your Folder" %}
+<figure><img src="../.gitbook/assets/Agua-Edit-Files-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+For the sake of your privacy and the integrity of your files, access permissions to your code must be renewed each time the project tab is refreshed.
+{% endhint %}
+
+
+
+#### 2.6. Welcome to Agua <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
+
+{% tabs %}
+{% tab title="Welcome to Agua" %}
+<figure><img src="../.gitbook/assets/Component-List-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -134,11 +156,49 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-### 3.1 **Components** Graph <a href="#id-33-graphs" id="id-33-graphs"></a>
+### A. [Components Tree](../basics/components-tree.md)
 
-### 3.1. Component Preview[​](https://docs.agua.dev/installation#31-component-previews) <a href="#id-31-component-previews" id="id-31-component-previews"></a>
+> Visualize component hierarchies and locate Sentry's files.
 
-### 3.3 **Dependencies** Graph <a href="#id-33-graphs" id="id-33-graphs"></a>
+{% tabs %}
+{% tab title="Components tree" %}
+<figure><img src="../.gitbook/assets/Component-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
-### 3.4 Code editor[​](https://docs.agua.dev/installation#32-code-editor) <a href="#id-32-code-editor" id="id-32-code-editor"></a>
+
+
+### B. [Dependencies Tree](../basics/dependencies-tree.md)
+
+> Visualize component dependencies.
+
+{% tabs %}
+{% tab title="Dependencies Tree" %}
+<figure><img src="../.gitbook/assets/Dependency-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+### C. [Component Preview](../basics/component-preview.md)
+
+> Visualize each of Sentry's components and their props.
+
+{% tabs %}
+{% tab title="Component Preview" %}
+<figure><img src="../.gitbook/assets/Component-Preview-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+### D. [Integrated IDE](../basics/integrated-ide.md)
+
+> Edit Sentry's code in our web-based VS Code.
+
+{% tabs %}
+{% tab title="Welcome to Agua" %}
+<figure><img src="../.gitbook/assets/Integrated-IDE-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
