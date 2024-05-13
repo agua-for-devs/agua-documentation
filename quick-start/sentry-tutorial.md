@@ -71,11 +71,11 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-### 3.1 **Components** Tree <a href="#id-33-graphs" id="id-33-graphs"></a>
+### 3.1 **Components** Graph <a href="#id-33-graphs" id="id-33-graphs"></a>
 
 ### 3.1. Component Preview[​](https://docs.agua.dev/installation#31-component-previews) <a href="#id-31-component-previews" id="id-31-component-previews"></a>
 
-### 3.3 **Dependencies** Tree <a href="#id-33-graphs" id="id-33-graphs"></a>
+### 3.3 **Dependencies** Graph <a href="#id-33-graphs" id="id-33-graphs"></a>
 
 ### 3.4 Code editor[​](https://docs.agua.dev/installation#32-code-editor) <a href="#id-32-code-editor" id="id-32-code-editor"></a>
 
