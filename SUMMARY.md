@@ -21,3 +21,8 @@
 * [WhatsApp Support](https://wa.me/12396883277)
 * [Talk to our founders](https://meetings.hubspot.com/developers/onboarding)
 * [Community Support](https://discord.gg/PyMKG3nZ)
+
+## Legal
+
+* [Privacy Policy](https://privacy.agua.dev/)
+* [Terms and Conditions](https://terms.agua.dev/)
