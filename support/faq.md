@@ -10,7 +10,7 @@ Agua is a **React Visual Environment**. With Agua, you can understand codebases 
 
 <details>
 
-<summary>Who is Agua for?</summary>
+<summary><strong>Who is Agua for?</strong></summary>
 
 Agua is tailor-made for Front-end developers using React. We are agnostic to your build tools, and don't matter if you use Typescript or Javascript.
 
@@ -18,7 +18,7 @@ Agua is tailor-made for Front-end developers using React. We are agnostic to you
 
 <details>
 
-<summary>What can I do with Agua?</summary>
+<summary><strong>What can I do with Agua?</strong></summary>
 
 If you are new to a project, Agua will generate a component and dependencies graph so you can visualize all your code structure. For each task, Agua will help you locate each file and preview each component with its props. You can edit each component directly in our integrated IDE and use AI to document all your work. As you push your changes, your team will have access to your documentation.
 
@@ -26,7 +26,7 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 <details>
 
-<summary>How does your automatic documentation work?</summary>
+<summary><strong>How does your automatic documentation work?</strong></summary>
 
 We have created specific prompts to document comprehensively each of your component props. You only need to connect Agua to your AI provider to start documenting.
 
@@ -34,7 +34,7 @@ We have created specific prompts to document comprehensively each of your compon
 
 <details>
 
-<summary>Does my code get sent to your servers?</summary>
+<summary><strong>Does my code get sent to your servers?</strong></summary>
 
 No. Your code only runs locally.
 
@@ -42,7 +42,7 @@ No. Your code only runs locally.
 
 <details>
 
-<summary>Is Agua free?</summary>
+<summary><strong>Is Agua free?</strong></summary>
 
 Yes, Agua is free for all developers. Do you want to use Agua in your workplace? Check out our ambassadors program and help us go global.
 
@@ -50,7 +50,7 @@ Yes, Agua is free for all developers. Do you want to use Agua in your workplace?
 
 <details>
 
-<summary>Is Agua like <a href="https://www.codesee.io/">CodeSee</a>?</summary>
+<summary><strong>Is Agua like</strong> <a href="https://www.codesee.io/"><strong>CodeSee</strong></a><strong>?</strong></summary>
 
 We are sorry to see CodeSee shut down. We are here for all those devs who hate large codebases with poor documentation. Did you use CodeSee? Talk to our founders.
 
@@ -58,7 +58,7 @@ We are sorry to see CodeSee shut down. We are here for all those devs who hate l
 
 <details>
 
-<summary>Is Agua like Storybook?</summary>
+<summary><strong>Is Agua like</strong> <a href="https://storybook.js.org/"><strong>Storybook</strong></a><strong>?</strong></summary>
 
 We share Storybook's mission of making web development easier and faster. That is why we have broadened how you can understand code. With Agua, you can document code at the same time you visually comprehend components and dependencies structure.
 
