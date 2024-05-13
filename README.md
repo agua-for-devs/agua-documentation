@@ -1,8 +1,6 @@
----
-description: Welcome to Agua! understand a new codebase in under 5 minutes.
----
-
 # Introduction
+
+**Welcome to Agua!** understand a new codebase in under 5 minutes.
 
 ***
 

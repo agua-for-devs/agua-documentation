@@ -15,15 +15,31 @@ layout:
 
 # Sentry: Tutorial
 
-In this 5-minute tutorial, you will utilize Sentry's repository to visualize and undertand its codebase components and dependency structure.
+In this tutorial, we'll walk through [Sentry's](https://sentry.io/) codebase's components and dependency structure.
 
 ***
 
 
 
-## 1. Codebase setup[​](https://docs.agua.dev/installation#1-codebase-setup) <a href="#id-1-codebase-setup" id="id-1-codebase-setup"></a>
+{% tabs %}
+{% tab title="Sentry" %}
 
-Fork and clone the GitHub repository locally.
+{% endtab %}
+{% endtabs %}
+
+
+
+## Basic Setup
+
+Retrieve all necessary assets from [Sentry's GitHub](https://github.com/getsentry) and start using Agua.
+
+***
+
+
+
+### 1. Codebase setup[​](https://docs.agua.dev/installation#1-codebase-setup) <a href="#id-1-codebase-setup" id="id-1-codebase-setup"></a>
+
+> Fork and clone the GitHub repository locally:
 
 ```
 https://github.com/getsentry/sentry.git
@@ -31,11 +47,11 @@ https://github.com/getsentry/sentry.git
 
 
 
-## 2. Agua setup[​](https://docs.agua.dev/installation#2-agua-setup) <a href="#id-2-agua-setup" id="id-2-agua-setup"></a>
+### 2. Agua setup[​](https://docs.agua.dev/installation#2-agua-setup) <a href="#id-2-agua-setup" id="id-2-agua-setup"></a>
 
-###
 
-### 2.1 Sign Up
+
+#### 2.1 Sign Up
 
 Open our web editor in [auth.agua.app](https://auth.agua.app/signin/).
 
@@ -45,7 +61,7 @@ Agua is currently only supported in [**Google Chrome**](https://www.google.com/i
 
 
 
-### 2.1. Terminal installation[​](https://docs.agua.dev/installation#21-terminal-installation) <a href="#id-21-terminal-installation" id="id-21-terminal-installation"></a>
+#### 2.1. Terminal installation[​](https://docs.agua.dev/installation#21-terminal-installation) <a href="#id-21-terminal-installation" id="id-21-terminal-installation"></a>
 
 In the root folder of the Sentry repository, run the following command:
 
@@ -95,7 +111,9 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-## 3. Platform Tour[​](https://docs.agua.dev/installation#3-platform-tour) <a href="#id-3-platform-tour" id="id-3-platform-tour"></a>
+## Platform Tour[​](https://docs.agua.dev/installation#3-platform-tour) <a href="#id-3-platform-tour" id="id-3-platform-tour"></a>
+
+***
 
 
 
