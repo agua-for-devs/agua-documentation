@@ -26,15 +26,15 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 <details>
 
-<summary><strong>How does your automatic documentation work?</strong></summary>
+<summary>How does Agua document my code?</summary>
 
-We have created specific prompts to document comprehensively each of your component props. You only need to connect Agua to your AI provider to start documenting.
+We have created specific prompts to document comprehensively each of your component's props. You only need to connect Agua to your AI provider to start documenting.
 
 </details>
 
 <details>
 
-<summary><strong>Does my code get sent to your servers?</strong></summary>
+<summary><strong>Does my code get sent to Agua's servers?</strong></summary>
 
 No. Your code only runs locally.
 
