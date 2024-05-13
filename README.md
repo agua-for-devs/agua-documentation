@@ -92,5 +92,4 @@ Generate documentation with AI: **Document with one-click**
 
 
 
-## [Get Started!](quick-start/sentry-tutorial.md)
-
+## Get Started!
