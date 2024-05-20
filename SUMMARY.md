@@ -4,7 +4,7 @@
 
 ## Quick Start
 
-* [Sentry: Tutorial](quick-start/sentry-tutorial.md)
+* [Excalidraw: Tutorial](quick-start/excalidraw-tutorial.md)
 
 ## Basics
 

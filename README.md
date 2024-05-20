@@ -8,25 +8,26 @@
 
 ## What is Agua?
 
-Agua is a **React Visual Environment**. With Agua, you can understand codebases faster and document easily every change you make. As developers ourselves, we hate working with large codebases and poor documentation. We want you to spend less time figuring out where the code is and understanding how it works so you can have more time to build amazing things.&#x20;
+Agua is a **React Visual Environment**. If you hate working with large codebases and poor documentation, you can use Agua to understand React projects faster. We want you to spend less time figuring out how to work with new code so you can have more time to build amazing things.
 
-> **Agua is free for developers!**
+> Agua is free for developers!
+
+### What can you do in Agua?
+
+With Agua, you can locate the file of each UI element with just one click. You can also understand your codebase structure and relationships with our auto-generated components and dependencies graph trees.
+
+**If you are new to a React project:**
+
+* You can familiarize yourself with the codebase structure with its components and dependencies tree graphs.
+* You can open and edit the file for each element of the project's UI with just one click.
+
+
 
 {% tabs %}
 {% tab title="Welcome to Agua" %}
 <figure><img src=".gitbook/assets/Agua-Menu-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-## What can you do in Agua?
-
-If you are new to a project, Agua will generate a component and dependencies graph so you can visualize all your code structure. For each task, Agua will help you locate each file and preview each component with its props. You can edit each component directly in our integrated IDE and use AI to document all your work. As you push your changes, your team will have access to your documentation.
-
-> **Understand and document code faster!**
-
-
 
 ## Key Features:
 
@@ -38,11 +39,13 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 {% tabs %}
 {% tab title="Components tree" %}
-<figure><img src=".gitbook/assets/Component-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/kAv-8AJxphk" fullWidth="true" %}
 {% endtab %}
 {% endtabs %}
 
 
+
+{% embed url="https://www.youtube.com/embed/kAv-8AJxphk?rel=0" fullWidth="true" %}
 
 ### 2. Dependencies Tree
 
@@ -51,18 +54,6 @@ If you are new to a project, Agua will generate a component and dependencies gra
 {% tabs %}
 {% tab title="Dependencies Tree" %}
 <figure><img src=".gitbook/assets/Dependency-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-
-
-### 3. Component Preview
-
-> Visualize each component and its props: **Understand how code works.**
-
-{% tabs %}
-{% tab title="Component Preview" %}
-<figure><img src=".gitbook/assets/Component-Preview-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -79,16 +70,6 @@ If you are new to a project, Agua will generate a component and dependencies gra
 {% endtabs %}
 
 
-
-### 5.  Documentation
-
-Generate documentation with AI: **Document with one-click**
-
-{% tabs %}
-{% tab title="Documentation" %}
-<figure><img src=".gitbook/assets/Component-List-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
 
 
 

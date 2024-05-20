@@ -26,7 +26,7 @@ If you are new to a project, Agua will generate a component and dependencies gra
 
 <details>
 
-<summary>How does Agua document my code?</summary>
+<summary><strong>How does Agua document my code?</strong></summary>
 
 We have created specific prompts to document comprehensively each of your component's props. You only need to connect Agua to your AI provider to start documenting.
 
