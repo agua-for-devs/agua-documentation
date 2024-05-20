@@ -45,7 +45,7 @@ With Agua, you can locate the file of each UI element with just one click. You c
 
 
 
-{% embed url="https://www.youtube.com/embed/kAv-8AJxphk?rel=0" fullWidth="true" %}
+{% embed url="https://www.youtube.com/embed/pkotufZchjE?si=5cx6w0FMdBAcaXDq&amp&controls=1&autoplay=1&mute=1&loop=1&playlist=pkotufZchjE" fullWidth="true" %}
 {iframe}(https://www.test.com)
 
 ### 2. Dependencies Tree
