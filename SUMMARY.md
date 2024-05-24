@@ -8,10 +8,9 @@
 
 ## Basics
 
+* [UI Quick Access](basics/ui-quick-access.md)
 * [Components Tree](basics/components-tree.md)
-* [Component Preview](basics/component-preview.md)
 * [Dependencies Tree](basics/dependencies-tree.md)
-* [Documentation](basics/documentation.md)
 * [Integrated IDE](basics/integrated-ide.md)
 
 ## Support

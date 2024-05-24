@@ -13,9 +13,9 @@ layout:
     visible: true
 ---
 
-# Sentry: Tutorial
+# Excalidraw: Tutorial
 
-In this tutorial, we'll walk through [Sentry's](https://sentry.io/) codebase's components and dependency structure.
+In this tutorial, we'll walk through [Excalidraw](https://excalidraw.com/)'s codebase's components and dependency structure.
 
 ***
 
@@ -93,51 +93,6 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-#### 2.3. Welcome menu[​](https://docs.agua.dev/installation#22-welcome-menu) <a href="#id-22-welcome-menu" id="id-22-welcome-menu"></a>
-
-> Select the \[**Open folder]** button and connect your local GitHub repository with Agua.
-
-{% tabs %}
-{% tab title="Welcome menu​" %}
-<figure><img src="../.gitbook/assets/Agua-Menu-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-> You can also access:
->
-> * Our Documentation \[[_Read the docs_](https://docs.agua.dev/)].
-> * Out Tutorials \[[_Watch our courses_](https://www.youtube.com/@aguafordevs)].
-> * Our WhatsApp contact \[[_Contact us for support_](https://wa.me/12396883277)].
-> * Our one-to-one onboarding \[[_Book a call with our founders_](https://agua.tools/meetings/developers/onboarding)].
-
-
-
-#### 2.4. Locate your Folder <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
-
-> Navigate through your file manager and select your repository's folder.
-
-{% tabs %}
-{% tab title="Locate your Folder" %}
-<figure><img src="../.gitbook/assets/Agua-Finder-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-
-
-#### 2.5. Grant Files permissions <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
-
-> Allow our web app to securely access and edit files in the selected folder.
-
-{% tabs %}
-{% tab title="Locate your Folder" %}
-<figure><img src="../.gitbook/assets/Agua-Edit-Files-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-{% hint style="success" %}
-For the sake of your privacy and the integrity of your files, access permissions to your code must be renewed each time the project tab is refreshed.
-{% endhint %}
-
 
 
 #### 2.6. Welcome to Agua <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
@@ -180,7 +135,7 @@ For the sake of your privacy and the integrity of your files, access permissions
 
 
 
-### C. [Component Preview](../basics/component-preview.md)
+### C. [Component Preview](broken-reference)
 
 > Visualize each of Sentry's components and their props.
 
