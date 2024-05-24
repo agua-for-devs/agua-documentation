@@ -8,6 +8,10 @@
 
 ## What is Agua?
 
+***
+
+
+
 Agua is a **React Visual Environment**. If you hate working with large codebases and poor documentation, you can use Agua to understand React projects faster. We want you to spend less time figuring out how to work with new code so you can have more time to build amazing things.
 
 > Agua is **free** for developers!
@@ -34,6 +38,8 @@ If you are new to a React project:
 
 
 ## Key Features:
+
+***
 
 
 
@@ -83,10 +89,10 @@ If you are new to a React project:
 {% endtab %}
 {% endtabs %}
 
-***
-
 
 
 ## Get Started!
+
+***
 
 Follow our [Quick Start tutorial](quick-start/excalidraw-tutorial.md) and understand the codebase of [Excalidraw](https://excalidraw.com/) in just 5 minutes.

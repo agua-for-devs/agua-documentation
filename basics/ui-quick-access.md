@@ -1,9 +1,9 @@
 # UI Quick Access
 
-#### Access an element's file, component structure, and dependencies **with just one click.**
+### Access any element's file, component structure, and dependencies **with just one click.**
 
 {% tabs %}
-{% tab title="Sentry" %}
+{% tab title="UI Quick Access" %}
 <figure><img src="../.gitbook/assets/Sentry-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

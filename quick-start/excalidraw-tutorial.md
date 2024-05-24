@@ -15,14 +15,14 @@ layout:
 
 # Excalidraw: Tutorial
 
-In this tutorial, we'll walk through [Excalidraw](https://excalidraw.com/)'s codebase's components and dependency structure.
+In this tutorial, we'll walk through [Excalidraw's](https://excalidraw.com/) codebase's components and dependency structure.
 
 ***
 
 
 
 {% tabs %}
-{% tab title="Sentry" %}
+{% tab title="Excalidraw" %}
 <figure><img src="../.gitbook/assets/Sentry-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
@@ -31,7 +31,7 @@ In this tutorial, we'll walk through [Excalidraw](https://excalidraw.com/)'s cod
 
 ## Basic Setup
 
-Retrieve all necessary assets from [Sentry's GitHub](https://github.com/getsentry) and start using Agua.
+Retrieve all necessary assets from [Excalidraw's GitHub](https://github.com/excalidraw/excalidraw) and start using Agua.
 
 ***
 
@@ -42,7 +42,7 @@ Retrieve all necessary assets from [Sentry's GitHub](https://github.com/getsentr
 > Fork and clone the GitHub repository locally:
 
 ```
-https://github.com/getsentry/sentry.git
+https://github.com/excalidraw/excalidraw.git
 ```
 
 
@@ -54,12 +54,12 @@ https://github.com/getsentry/sentry.git
 #### 2.1 Sign Up
 
 > Open Agua's [web editor](https://auth.agua.app/signin/):
+>
+> Register with your Google Account.&#x20;
 
 ```
 https://auth.agua.app/signin/
 ```
-
-> Register with your [Google Account](https://www.google.com/account/about/).&#x20;
 
 {% tabs %}
 {% tab title="Sign Up" %}
@@ -75,7 +75,7 @@ Agua is currently only supported in [**Google Chrome**](https://www.google.com/i
 
 #### 2.2. Terminal installation[​](https://docs.agua.dev/installation#21-terminal-installation) <a href="#id-21-terminal-installation" id="id-21-terminal-installation"></a>
 
-> Go to the root folder of the Sentry repository and run:
+> Go to the root folder of the Excalidraw repository and run:
 
 ```
 npx --yes agua-server
@@ -93,9 +93,7 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-
-
-#### 2.6. Welcome to Agua <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
+#### 2.3. Welcome to Agua <a href="#id-23-folder-selection" id="id-23-folder-selection"></a>
 
 {% tabs %}
 {% tab title="Welcome to Agua" %}
@@ -108,6 +106,16 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 ## Platform Tour[​](https://docs.agua.dev/installation#3-platform-tour) <a href="#id-3-platform-tour" id="id-3-platform-tour"></a>
 
 ***
+
+### A. [UI Quick Access](../basics/ui-quick-access.md)
+
+> Click and access an element's file, component structure, and dependencies.
+
+{% tabs %}
+{% tab title="Components tree" %}
+<figure><img src="../.gitbook/assets/Component-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -130,18 +138,6 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 {% tabs %}
 {% tab title="Dependencies Tree" %}
 <figure><img src="../.gitbook/assets/Dependency-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-
-
-### C. [Component Preview](broken-reference)
-
-> Visualize each of Sentry's components and their props.
-
-{% tabs %}
-{% tab title="Component Preview" %}
-<figure><img src="../.gitbook/assets/Component-Preview-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
