@@ -52,15 +52,7 @@ Yes, Agua is free for all developers. Do you want to use Agua in your workplace?
 
 <summary><strong>Is Agua like</strong> <a href="https://www.codesee.io/"><strong>CodeSee</strong></a><strong>?</strong></summary>
 
-We are sorry to see CodeSee shut down. We are here for all those devs who hate large codebases with poor documentation. Did you use CodeSee? Talk to our founders.
-
-</details>
-
-<details>
-
-<summary><strong>Is Agua like</strong> <a href="https://storybook.js.org/"><strong>Storybook</strong></a><strong>?</strong></summary>
-
-We share Storybook's mission of making web development easier and faster. That is why we have broadened how you can understand code. With Agua, you can document code at the same time you visually comprehend components and dependencies structure.
+We are sorry about CodeSee's shutdown. We are here for all those devs who hate working large codebases with poor documentation. Did you use CodeSee? Talk to our founders about your experience, and let's see how we can help you.
 
 </details>
 
