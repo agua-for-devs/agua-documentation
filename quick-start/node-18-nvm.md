@@ -9,7 +9,7 @@ As of today, Agua is only supported with Node.js version 18 LTS. If you are usin
 
 NVM (Node Version Manager) allows you to install different versions of Node.js and switch between them as needed with a single command.
 
-[https://github.com/coreybutler/nvm-windows/](https://github.com/coreybutler/nvm-windows/)
+[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 
 ## For Windows
 
