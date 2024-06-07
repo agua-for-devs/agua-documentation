@@ -9,13 +9,9 @@ As of today, Agua is only supported with Node.js version 18 LTS. If you are usin
 
 NVM (Node Version Manager) allows you to install different versions of Node.js and switch between them as needed with a single command.
 
-## GitHub Repository
-
-To install NVM, visit the following GitHub repository:
-
 [https://github.com/coreybutler/nvm-windows/](https://github.com/coreybutler/nvm-windows/)
 
-### For Windows
+## For Windows
 
 1. Navigate to the NVM GitHub repository releases page:\
    [https://github.com/coreybutler/nvm-windows/releases](https://github.com/coreybutler/nvm-windows/releases)
@@ -131,9 +127,7 @@ nvm version
 
 This command will show the version of NVM installed on your system.
 
-### MacOS
-
-Since Linux and Mac have some similarities (they are both UNIX-based OSes), you can install NVM on them in similar ways.
+## MacOS
 
 #### 1. Run the NVM Installer
 
