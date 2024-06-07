@@ -4,6 +4,7 @@
 
 ## Quick Start
 
+* [NVM installation](quick-start/nvm-installation.md)
 * [Excalidraw: Tutorial](quick-start/excalidraw-tutorial.md)
 
 ## Basics
