@@ -4,8 +4,8 @@
 
 ## Quick Start
 
-* [Excalidraw Tutorial](quick-start/excalidraw-tutorial.md)
-* [NVM installation](quick-start/nvm-installation.md)
+* [Excalidraw: Tutorial](quick-start/excalidraw-tutorial.md)
+* [Node 18: NVM](quick-start/node-18-nvm.md)
 
 ## Basics
 
