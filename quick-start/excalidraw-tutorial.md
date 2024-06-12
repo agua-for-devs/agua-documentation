@@ -143,7 +143,7 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 
 
-### D. [Integrated IDE](../basics/integrated-ide.md)
+### D. [Integrated IDE](broken-reference)
 
 > Edit Sentry's code in our web-based VS Code.
 

@@ -5,22 +5,24 @@
 ## Quick Start
 
 * [Excalidraw: Tutorial](quick-start/excalidraw-tutorial.md)
-* [Node 18: NVM](quick-start/node-18-nvm.md)
+* [FAQ](quick-start/faq.md)
 
 ## Basics
 
 * [UI Quick Access](basics/ui-quick-access.md)
 * [Components Tree](basics/components-tree.md)
 * [Dependencies Tree](basics/dependencies-tree.md)
-* [Integrated IDE](basics/integrated-ide.md)
 
-## Support
+## Help
 
-* [FAQ](support/faq.md)
 * [Mail Support](mailto:santiago@agua.dev)
 * [WhatsApp Support](https://wa.me/12396883277)
 * [Talk to our founders](https://meetings.hubspot.com/developers/onboarding)
-* [Community Support](https://discord.gg/PyMKG3nZ)
+
+## Community
+
+* [Discord](https://discord.gg/PyMKG3nZ)
+* [WhatsApp](https://chat.whatsapp.com/LxINph0TKfvA09bT9p7fhk)
 
 ## Legal
 
