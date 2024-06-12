@@ -5,6 +5,7 @@
 ## Quick Start
 
 * [Excalidraw: Tutorial](quick-start/excalidraw-tutorial.md)
+* [Talk to our founders](https://meetings.hubspot.com/developers/onboarding)
 * [FAQ](quick-start/faq.md)
 
 ## Basics
@@ -17,7 +18,6 @@
 
 * [Mail Support](mailto:santiago@agua.dev)
 * [WhatsApp Support](https://wa.me/12396883277)
-* [Talk to our founders](https://meetings.hubspot.com/developers/onboarding)
 
 ## Community
 
