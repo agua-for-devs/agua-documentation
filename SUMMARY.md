@@ -21,7 +21,7 @@
 
 ## Community
 
-* [Discord](https://discord.gg/PyMKG3nZ)
+* [Discord](https://discord.com/invite/qmQ4MVX3Z6)
 * [WhatsApp](https://chat.whatsapp.com/LxINph0TKfvA09bT9p7fhk)
 
 ## Legal
