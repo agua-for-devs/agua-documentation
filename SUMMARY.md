@@ -10,9 +10,9 @@
 
 ## Basics
 
-* [UI Quick Access](basics/ui-quick-access.md)
-* [Components Tree](basics/components-tree.md)
-* [Dependencies Tree](basics/dependencies-tree.md)
+* [UI Picker](basics/ui-picker.md)
+* [Components Graph](basics/components-tree.md)
+* [Dependencies Graph](basics/dependencies-tree.md)
 
 ## Help
 

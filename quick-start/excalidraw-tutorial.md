@@ -107,7 +107,7 @@ Agua is currently only supported in [**Node.js 18**](https://nodejs.org/en/downl
 
 ***
 
-### A. [UI Quick Access](../basics/ui-quick-access.md)
+### A. [UI Quick Access](../basics/ui-picker.md)
 
 > Click and access an element's file, component structure, and dependencies.
 

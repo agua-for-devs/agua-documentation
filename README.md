@@ -20,10 +20,10 @@ Agua is a **React Visual Environment**. If you hate working with large codebases
 
 If you are new to a React project:
 
-* You can **select each element of your UI element and access its file** with just one click.
+* You can [**select each element of your UI element and access its file**](basics/ui-picker.md) with just one click.
 * You can **familiarize yourself with your codebase structure** with graph trees.
-  * Component Graph: Visuallice the DOM hierarchies
-  * Dependencies Graph: Visuallice the file's relationships&#x20;
+  * [**Component Graph**](./#dependencies-tree): Visuallice the DOM hierarchies
+  * [**Dependencies Graph**](./#dependencies-tree): Visuallice the file's relationships&#x20;
 
 
 
@@ -43,21 +43,21 @@ If you are new to a React project:
 
 
 
-### 1. UI Quick Access
+### 1. [UI Picker](basics/ui-picker.md)
 
-#### Access an element's file, component structure, and dependencies **with just one click.**
+#### Click an element of your project's UI and access automatically its file in VS Code.
 
 {% tabs %}
-{% tab title="UI Quick Access" %}
+{% tab title="UI Picker" %}
 {% embed url="https://youtu.be/kAv-8AJxphk" fullWidth="true" %}
 {% endtab %}
 {% endtabs %}
 
 
 
-### 2. Components Tree
+### 2. [Components Graph](basics/components-tree.md)
 
-#### Visualize component hierarchies and locate their files: ‍**Find where your code is.**
+#### Visualize the DOM hierarchies. See the structure of all the components within your project. Access a component file path, its Parent element (reference), and the component Child elements (dependencies).
 
 {% tabs %}
 {% tab title="Components tree" %}
@@ -67,9 +67,9 @@ If you are new to a React project:
 
 
 
-### 3. Dependencies Tree
+### 3. [Dependencies Graph](basics/dependencies-tree.md)
 
-#### Visualize component dependencies: **Review all code relationships.**
+#### Visualize the file's relationships. See the structure of all files within your project. Access a dependencies file path, its reference, and its dependencies.
 
 {% tabs %}
 {% tab title="Dependencies Tree" %}
