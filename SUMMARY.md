@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to Agua!](README.md)
 
 ## Quick Start
 

@@ -1,10 +1,8 @@
-# Introduction
+---
+description: Understand and start working on a new React Project in less than 5 minutes.
+---
 
-**Welcome to Agua!** understand a new codebase in under 5 minutes.
-
-***
-
-
+# Welcome to Agua!
 
 ## What is Agua?
 
@@ -12,28 +10,30 @@
 
 
 
-Agua is a **React Visual Environment**. If you hate working with large codebases and poor documentation, you can use Agua to understand React projects faster. We want you to spend less time figuring out how to work with new code so you can have more time to build amazing things.
+Agua is a **React Visual Environment**. If you hate working with large codebases and poor documentation, this is for you. You can use Agua to understand a React project faster. We also provide you with the best coding for any given task. **We want you to spend less time figuring out new code so you spend more time building amazing things.**
 
 > Agua is **free** for developers!
 
 
 
-### What can you?
+## What can you do?
 
 If you are new to a React project:
 
-* You can select each element of your UI element and access its file with just one click.
-* You can familiarize yourself with your codebase structure with our auto-generated components and dependencies graph trees.
+* You can **select each element of your UI element and access its file** with just one click.
+* You can **familiarize yourself with your codebase structure** with graph trees.
+  * Component Graph: Visuallice the DOM hierarchies
+  * Dependencies Graph: Visuallice the file's relationships&#x20;
 
 
 
 {% tabs %}
-{% tab title="Welcome to Agua" %}
-<figure><img src=".gitbook/assets/Agua-Menu-Reduced.png" alt=""><figcaption></figcaption></figure>
+{% tab title="What can you do?" %}
+{% embed url="https://youtu.be/PVOiL4rWKt0?si=mnU_ZMhC21sNV9SU" %}
+[https://youtu.be/PVOiL4rWKt0?si=mnU\_ZMhC21sNV9SU](https://youtu.be/PVOiL4rWKt0?si=mnU\_ZMhC21sNV9SU)
+{% endembed %}
 {% endtab %}
 {% endtabs %}
-
-***
 
 
 
@@ -74,18 +74,6 @@ If you are new to a React project:
 {% tabs %}
 {% tab title="Dependencies Tree" %}
 <figure><img src=".gitbook/assets/Dependency-Tree-Reduced.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-
-
-### 4. Integrated IDE
-
-#### Edit code in our web-based VS Code: **Avoid context-switching.**
-
-{% tabs %}
-{% tab title="Integrated IDE" %}
-<figure><img src=".gitbook/assets/Integrated-IDE-Reduced.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
