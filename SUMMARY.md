@@ -26,5 +26,5 @@
 
 ## Legal
 
-* [Privacy Policy](https://privacy.agua.dev/)
-* [Terms and Conditions](https://terms.agua.dev/)
+* [Privacy Policy](https://agua.gitbook.io/privacy)
+* [Terms and Conditions](https://agua.gitbook.io/terms)
