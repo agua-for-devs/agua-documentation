@@ -16,8 +16,7 @@
 
 ## Help
 
-* [Mail Support](mailto:santiago@agua.dev)
-* [WhatsApp Support](https://wa.me/12396883277)
+* [Mail Support](mailto:aguafordevs@gmail.com)
 
 ## Community
 
@@ -26,5 +25,5 @@
 
 ## Legal
 
-* [Privacy Policy](https://agua.gitbook.io/privacy)
-* [Terms and Conditions](https://agua.gitbook.io/terms)
+* [Privacy Policy](https://agua.gitbook.io/privacy/)
+* [Terms and Conditions](https://agua.gitbook.io/terms/)
